@@ -43,8 +43,8 @@ export default function Footer() {
             <ul className="space-y-2 text-sm text-primary-foreground/80">
               <li>Автографы космонавтов СССР</li>
               <li>Автографы астронавтов NASA</li>
-              <li>Карты звёздного неба XIX века</li>
-              <li>Атласы созвездий</li>
+              <li>Личные вещи космонавтов</li>
+              <li>Фотографии космических миссий</li>
             </ul>
           </div>
 
