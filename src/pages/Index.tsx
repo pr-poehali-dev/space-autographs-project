@@ -31,16 +31,6 @@ export default function Index() {
       certified: true
     },
     {
-      id: 2,
-      name: 'Карта созвездий северного полушария',
-      category: 'map',
-      price: 450000,
-      image: 'https://cdn.poehali.dev/projects/2a65e1cb-a466-4304-bd18-69873427fc20/files/00691070-58da-4fb5-a385-de2e4cb6202a.jpg',
-      year: '1850',
-      description: 'Антикварная карта звёздного неба XIX века с детальной прорисовкой созвездий. Отличное состояние, оригинальные краски.',
-      certified: true
-    },
-    {
       id: 3,
       name: 'Автограф экипажа Аполлон-11',
       category: 'autograph',
@@ -60,16 +50,6 @@ export default function Index() {
       year: '1963',
       astronaut: 'Валентина Терешкова',
       description: 'Автограф первой женщины-космонавта на памятной открытке полёта Восток-6.',
-      certified: true
-    },
-    {
-      id: 5,
-      name: 'Атлас звёздного неба Фламстида',
-      category: 'map',
-      price: 890000,
-      image: 'https://cdn.poehali.dev/projects/2a65e1cb-a466-4304-bd18-69873427fc20/files/00691070-58da-4fb5-a385-de2e4cb6202a.jpg',
-      year: '1729',
-      description: 'Редкое издание знаменитого атласа Джона Фламстида. Одна из первых научных карт звёздного неба.',
       certified: true
     },
     {
